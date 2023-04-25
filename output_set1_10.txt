@@ -1,0 +1,322 @@
+Iteration 1:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[1, 1, 1, 1, 0, 0, 0, 1, 0, 1]
+[0, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+[0, 1, 0, 0, 1, 0, 0, 1, 0, 1]
+[0, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+[1, 0, 1, 0, 0, 1, 0, 1, 1, 1]
+[1, 1, 1, 0, 0, 0, 1, 1, 1, 0]
+[0, 1, 0, 1, 1, 0, 0, 1, 0, 1]
+There is a total of 7 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 0, 1, 0, 0, 1, 0, 1, 1, 1] with the quality:14307
+The worst solution found for the 10 solutions generated is: [0, 0, 1, 0, 1, 0, 1, 0, 1, 0] with the quality:2817
+The average quality for the 10 solutions generated is: 8137.142857142857
+
+This iteration of random search took 0.00011810001160483807 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+    with the quality: 13619
+    and runtime: 2.1900006686337292e-05.
+---------------------------------------------------------------------
+
+Iteration 2:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[0, 1, 1, 0, 0, 0, 1, 0, 0, 1]
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+[1, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+[1, 0, 1, 0, 0, 1, 0, 1, 1, 0]
+[1, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+[0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+[0, 0, 0, 0, 1, 0, 1, 1, 1, 0]
+[0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+[0, 1, 1, 0, 0, 1, 0, 1, 0, 1]
+There is a total of 9 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [0, 1, 1, 0, 0, 1, 0, 1, 0, 1] with the quality:13009
+The worst solution found for the 10 solutions generated is: [0, 1, 0, 0, 0, 0, 1, 0, 0, 0] with the quality:577
+The average quality for the 10 solutions generated is: 6607.333333333333
+
+This iteration of random search took 7.919999188743532e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [0, 0, 1, 0, 0, 1, 1, 1, 1, 1]
+    with the quality: 14517
+    and runtime: 1.479999627918005e-05.
+---------------------------------------------------------------------
+
+Iteration 3:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[1, 0, 0, 0, 0, 1, 1, 0, 0, 1]
+[1, 0, 1, 0, 0, 1, 0, 1, 0, 1]
+[1, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+[0, 1, 0, 1, 1, 0, 1, 1, 0, 0]
+[0, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+[0, 0, 1, 1, 0, 1, 0, 1, 1, 0]
+[1, 0, 1, 1, 1, 0, 0, 0, 1, 1]
+[0, 1, 1, 0, 0, 1, 1, 1, 1, 0]
+[0, 0, 0, 1, 0, 0, 1, 1, 1, 0]
+There is a total of 9 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 0, 1, 0, 0, 1, 0, 1, 0, 1] with the quality:13308
+The worst solution found for the 10 solutions generated is: [0, 1, 0, 1, 1, 0, 1, 1, 0, 0] with the quality:1149
+The average quality for the 10 solutions generated is: 6043.222222222223
+
+This iteration of random search took 7.749999349471182e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [1, 1, 1, 1, 1, 0, 0, 0, 0, 1]
+    with the quality: 11648
+    and runtime: 1.3800003216601908e-05.
+---------------------------------------------------------------------
+
+Iteration 4:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[0, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+[1, 1, 1, 0, 1, 1, 0, 0, 0, 1]
+[0, 1, 1, 0, 1, 0, 1, 0, 0, 1]
+[0, 1, 1, 1, 0, 1, 1, 1, 1, 0]
+[0, 1, 1, 0, 0, 0, 1, 1, 0, 0]
+[0, 1, 0, 0, 1, 1, 1, 0, 0, 0]
+[0, 1, 1, 0, 1, 0, 1, 0, 0, 0]
+[1, 0, 1, 0, 0, 0, 1, 1, 0, 0]
+There is a total of 8 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 1, 1, 0, 1, 1, 0, 0, 0, 1] with the quality:12864
+The worst solution found for the 10 solutions generated is: [0, 1, 0, 0, 1, 1, 1, 0, 0, 0] with the quality:1843
+The average quality for the 10 solutions generated is: 5182.125
+
+This iteration of random search took 7.020001066848636e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [0, 0, 1, 1, 1, 1, 1, 0, 1, 1]
+    with the quality: 14045
+    and runtime: 1.7800004570744932e-05.
+---------------------------------------------------------------------
+
+Iteration 5:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[0, 1, 0, 0, 1, 0, 1, 0, 0, 1]
+[0, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+[1, 1, 1, 1, 1, 1, 0, 0, 0, 1]
+[1, 0, 1, 0, 0, 1, 1, 0, 1, 0]
+[0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+[0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+[0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+[1, 0, 1, 1, 0, 0, 1, 0, 0, 0]
+[1, 0, 1, 1, 0, 1, 1, 1, 0, 0]
+There is a total of 9 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 1, 1, 1, 1, 1, 0, 0, 0, 1] with the quality:12870
+The worst solution found for the 10 solutions generated is: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0] with the quality:1753
+The average quality for the 10 solutions generated is: 5644.444444444444
+
+This iteration of random search took 7.350000669248402e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [0, 1, 1, 0, 0, 1, 0, 0, 1, 1]
+    with the quality: 13486
+    and runtime: 1.340000017080456e-05.
+---------------------------------------------------------------------
+
+Iteration 6:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[1, 1, 0, 0, 0, 1, 1, 0, 1, 1]
+[1, 1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 1, 0, 0, 1, 0, 1, 0, 1, 0]
+[1, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+[1, 1, 0, 1, 1, 0, 0, 0, 1, 1]
+[0, 1, 0, 1, 1, 1, 0, 0, 0, 1]
+[1, 1, 0, 0, 0, 1, 0, 1, 0, 1]
+There is a total of 7 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 1, 0, 0, 0, 1, 1, 0, 1, 1] with the quality:13131
+The worst solution found for the 10 solutions generated is: [0, 1, 0, 0, 1, 0, 1, 0, 1, 0] with the quality:1620
+The average quality for the 10 solutions generated is: 10378.285714285714
+
+This iteration of random search took 6.740000389982015e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [0, 0, 0, 1, 1, 1, 0, 1, 0, 1]
+    with the quality: 11794
+    and runtime: 1.4200006262399256e-05.
+---------------------------------------------------------------------
+
+Iteration 7:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[1, 0, 0, 0, 1, 0, 0, 1, 0, 1]
+[0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+[0, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+[0, 0, 0, 1, 0, 1, 1, 0, 1, 1]
+[1, 1, 1, 1, 0, 0, 0, 0, 1, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+[1, 0, 1, 1, 0, 0, 1, 1, 1, 1]
+There is a total of 7 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 0, 1, 1, 0, 0, 1, 1, 1, 1] with the quality:13634
+The worst solution found for the 10 solutions generated is: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0] with the quality:556
+The average quality for the 10 solutions generated is: 6340.571428571428
+
+This iteration of random search took 6.870001379866153e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [1, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+    with the quality: 12607
+    and runtime: 1.3299999409355223e-05.
+---------------------------------------------------------------------
+
+Iteration 8:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+[1, 0, 1, 0, 1, 1, 1, 0, 0, 1]
+[1, 1, 1, 0, 0, 1, 0, 0, 1, 1]
+[0, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+[1, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+[1, 0, 0, 0, 0, 1, 1, 0, 1, 1]
+[0, 0, 0, 1, 0, 0, 1, 0, 1, 1]
+[1, 1, 1, 0, 0, 1, 0, 0, 0, 1]
+There is a total of 8 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 1, 1, 0, 0, 1, 0, 0, 1, 1] with the quality:13819
+The worst solution found for the 10 solutions generated is: [1, 0, 0, 0, 0, 1, 0, 1, 0, 0] with the quality:2077
+The average quality for the 10 solutions generated is: 9087.625
+
+This iteration of random search took 7.03999976394698e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [0, 0, 0, 1, 1, 1, 1, 1, 0, 1]
+    with the quality: 12337
+    and runtime: 1.4899997040629387e-05.
+---------------------------------------------------------------------
+
+Iteration 9:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[0, 1, 0, 1, 0, 0, 1, 1, 1, 1]
+[0, 1, 1, 0, 1, 0, 1, 0, 0, 0]
+[1, 0, 0, 1, 0, 0, 0, 1, 1, 1]
+[1, 0, 1, 0, 1, 0, 0, 0, 0, 1]
+[1, 0, 0, 0, 0, 1, 1, 0, 0, 1]
+[1, 1, 0, 1, 1, 0, 1, 1, 0, 0]
+[0, 0, 1, 1, 0, 1, 1, 1, 1, 0]
+[1, 0, 1, 0, 1, 1, 1, 0, 0, 0]
+[1, 1, 1, 1, 1, 0, 0, 0, 1, 1]
+[1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+There is a total of 10 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1] with the quality:12647
+The worst solution found for the 10 solutions generated is: [1, 1, 0, 1, 1, 0, 1, 1, 0, 0] with the quality:1482
+The average quality for the 10 solutions generated is: 7310.2
+
+This iteration of random search took 7.699998968746513e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [0, 1, 1, 0, 1, 1, 0, 0, 0, 1]
+    with the quality: 12531
+    and runtime: 1.340000017080456e-05.
+---------------------------------------------------------------------
+
+Iteration 10:
+k = 10
+max_capacity = 1000
+weights = [56, 121, 200, 5, 343, 65, 23, 434, 150, 90]
+values = [333, 34, 1231, 6, 44, 1222, 543, 522, 999, 10000]
+
+USING RANDOM SEARCH ALGORITHM:
+The generated VALID solutions are:
+[0, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+[0, 1, 1, 1, 0, 0, 1, 0, 1, 1]
+[0, 0, 1, 1, 1, 0, 1, 0, 0, 1]
+[1, 1, 1, 1, 0, 0, 1, 1, 1, 0]
+[0, 1, 1, 0, 0, 1, 0, 0, 1, 0]
+[0, 0, 0, 1, 1, 0, 1, 1, 1, 0]
+[0, 0, 0, 0, 0, 1, 0, 1, 1, 0]
+[0, 0, 1, 1, 0, 0, 1, 1, 0, 0]
+[1, 1, 1, 1, 0, 0, 0, 0, 1, 0]
+There is a total of 9 valid solutions out of 10 generated.
+
+The best solution found for the 10 solutions generated is: [0, 1, 0, 1, 1, 1, 1, 0, 1, 1] with the quality:12848
+The worst solution found for the 10 solutions generated is: [0, 0, 0, 1, 1, 0, 1, 1, 1, 0] with the quality:2114
+The average quality for the 10 solutions generated is: 6044.555555555556
+
+This iteration of random search took 7.360000745393336e-05 to finish 
+
+
+USING RHC ALGORITHM:
+The random hill climbing algorithm found the solution: [1, 0, 1, 1, 1, 1, 0, 0, 1, 1]
+    with the quality: 13835
+    and runtime: 1.3499986380338669e-05.
+---------------------------------------------------------------------
+
+
+
+
+Out of 10 iterations of RHC, the best solution found was: ([0, 0, 1, 0, 0, 1, 1, 1, 1, 1], 14517) 
+
+Out of 10 iterations of RHC, the worst solution found was: ([1, 1, 1, 1, 1, 0, 0, 0, 0, 1], 11648) 
+
+Out of 10 iterations of RHC, the average quality was: 13041.9 
+
